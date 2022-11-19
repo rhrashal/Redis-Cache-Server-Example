@@ -1,5 +1,7 @@
 # Redis-Cache-Server-Example
 
+### https://www.c-sharpcorner.com/article/implementation-of-the-redis-cache-in-the-net-core-api/
+
 ##  
       01->	redis-server
       02->	redis-cli info
@@ -40,3 +42,4 @@
       08->	redis-cli get key
       09-> 	redis-cli info
       10-> 	redis-cli shutdown
+
