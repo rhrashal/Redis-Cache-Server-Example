@@ -9,6 +9,7 @@
       03->	redis-server --service-start
       04->	redis-cli
 
+
       05->	set [key] [Value]	--set new item
       06->	setex [key] [epire time in second] [value]  --set new item with expire time
       06->	get [key]
